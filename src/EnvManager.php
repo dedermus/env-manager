@@ -1,8 +1,8 @@
 <?php
 
-namespace Jxlwqq\EnvManager;
+namespace OpenAdminCore\EnvManager;
 
-use Encore\Admin\Extension;
+use OpenAdminCore\Admin\Extension;
 
 class EnvManager extends Extension
 {

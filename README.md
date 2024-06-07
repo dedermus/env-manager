@@ -7,12 +7,12 @@
 
 ## Requirements
 
-* laravel-admin >= 1.6
+* open-admin >= 1.0.1
 
 ## Installation
 
 ```bash
-composer require jxlwqq/env-manager
+composer require dedermus/env-manager
 
 # If you want to add a link entry in the left menu, use the following command to import
 php artisan admin:import env-manager
@@ -40,7 +40,7 @@ And you can find the `.env` variables.
 
 ## More resources
 
-[Awesome Laravel-admin](https://github.com/jxlwqq/awesome-laravel-admin)
+[Awesome open-admin-core](https://github.com/dedermus/open-admin-core)
 
 
 ## License

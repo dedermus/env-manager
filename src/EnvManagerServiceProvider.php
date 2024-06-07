@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxlwqq\EnvManager;
+namespace OpenAdminCore\EnvManager;
 
 use Illuminate\Support\ServiceProvider;
 

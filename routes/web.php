@@ -1,5 +1,5 @@
 <?php
 
-use Jxlwqq\EnvManager\Http\Controllers\EnvManagerController;
+use OpenAdminCore\EnvManager\Http\Controllers\EnvManagerController;
 
 Route::resource('env-manager', EnvManagerController::class);
