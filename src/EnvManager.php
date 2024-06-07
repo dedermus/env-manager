@@ -11,6 +11,6 @@ class EnvManager extends Extension
     public $menu = [
         'title' => 'EnvManager',
         'path'  => 'env-manager',
-        'icon'  => 'fa-gears',
+        'icon'  => 'icon-cog',
     ];
 }
