@@ -7,7 +7,7 @@
 
 ## Requirements
 
-* open-admin >= 1.0.1
+* open-admin >= 2.0.1
 
 ## Installation
 
